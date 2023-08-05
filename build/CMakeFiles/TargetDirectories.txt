@@ -1,0 +1,3 @@
+/mnt/hgfs/code/工程/电梯/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/code/工程/电梯/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/code/工程/电梯/build/CMakeFiles/target.dir

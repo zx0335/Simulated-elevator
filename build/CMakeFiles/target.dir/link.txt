@@ -1,0 +1,1 @@
+arm-linux-gnueabi-g++    -rdynamic CMakeFiles/target.dir/src/elevator.o CMakeFiles/target.dir/src/lcd.o CMakeFiles/target.dir/src/main.o  -o target  -lpthread 
