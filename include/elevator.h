@@ -9,11 +9,11 @@ public:
     Elevator(); // 初始化状态
     ~Elevator();
 
-    int update(const int &n, Bmp_Event &event); // 更新记录楼层*
+    int update(const int &n, Bmp_Event &event); // 更新记录楼层
     void update_next();                         // 更新目标
     void press(const int &n, Bmp_Event &event); // 按下楼层
-    int move(Bmp_Event &event);                 // 电梯移动*
-    void running(Bmp_Event &event);             // 流程控制*
+    int move(Bmp_Event &event);                 // 电梯移动
+    void running(Bmp_Event &event);             // 流程控制
     void remove_dest(vector<int> &v, int &n);
 
 private:
